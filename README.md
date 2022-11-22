@@ -1,2 +1,2 @@
 # Data_Erizo_2022_bookdown
-Pagina para erizo data análisis exploratorio
+Esta es una pagina que visualiza en formato de libro (pdf y html) los analisis exploratorios para erizo en las regiones X y XI.
